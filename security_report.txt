@@ -1,0 +1,10 @@
+CYBER SECURITY REPORT
+=====================
+Date: 2026-11-24 14:59:06.566531
+Total Failed Logins: 3
+Successful Logins: 0
+
+SUSPICIOUS IP ADDRESSES
+192.168.1.50 - 3 failed attempts
+
+Report Generated Successfully!
